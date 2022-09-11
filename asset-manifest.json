@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/famer-app/static/css/main.4a7ca07d.chunk.css",
+    "main.js": "/famer-app/static/js/main.4c816174.chunk.js",
+    "main.js.map": "/famer-app/static/js/main.4c816174.chunk.js.map",
+    "runtime-main.js": "/famer-app/static/js/runtime-main.f51039af.js",
+    "runtime-main.js.map": "/famer-app/static/js/runtime-main.f51039af.js.map",
+    "static/js/2.322a9d2c.chunk.js": "/famer-app/static/js/2.322a9d2c.chunk.js",
+    "static/js/2.322a9d2c.chunk.js.map": "/famer-app/static/js/2.322a9d2c.chunk.js.map",
+    "index.html": "/famer-app/index.html",
+    "precache-manifest.3f71499bea42a09a4b700b4e5650c761.js": "/famer-app/precache-manifest.3f71499bea42a09a4b700b4e5650c761.js",
+    "service-worker.js": "/famer-app/service-worker.js",
+    "static/css/main.4a7ca07d.chunk.css.map": "/famer-app/static/css/main.4a7ca07d.chunk.css.map",
+    "static/js/2.322a9d2c.chunk.js.LICENSE.txt": "/famer-app/static/js/2.322a9d2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51039af.js",
+    "static/js/2.322a9d2c.chunk.js",
+    "static/css/main.4a7ca07d.chunk.css",
+    "static/js/main.4c816174.chunk.js"
+  ]
+}
